@@ -6,3 +6,6 @@
 * RxJava
 * Scoop
 * Git
+* DB
+  * Mongodb
+* iOS
